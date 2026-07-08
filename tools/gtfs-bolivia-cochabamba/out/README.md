@@ -1,29 +1,31 @@
 ### Count
-**Total**: 565  **Correct**: 565  **With error**: 0
+**Total**: 626  **Correct**: 626  **With error**: 0
 
 
 | Id | Name | Ref | From | To | State |
 | -- | ---- | --- | ---- | -- | ----- |
-[9417509](https://www.openstreetmap.org/relation/9417509) | MicroBus 3V: Río Taquiña → Calle Tómas Gamboa | 3V | Río Taquiña | Calle Tómas Gamboa | ✅
-[9417539](https://www.openstreetmap.org/relation/9417539) | MicroBus 3V: Calle Tómas Gamboa → Río Taquiña | 3V | Calle Tómas Gamboa | Río Taquiña | ✅
+[9417509](https://www.openstreetmap.org/relation/9417509) | MicroBus 3v: Río Taquiña → Calle Tómas Gamboa | 3v | Río Taquiña | Calle Tómas Gamboa | ✅
+[9417539](https://www.openstreetmap.org/relation/9417539) | MicroBus 3v: Calle Tómas Gamboa → Río Taquiña | 3v | Calle Tómas Gamboa | Río Taquiña | ✅
 [4269608](https://www.openstreetmap.org/relation/4269608) | MicroBus A: Villa Israel → Río Taquiña | A | Villa Israel | Río Taquiña | ✅
 [4269609](https://www.openstreetmap.org/relation/4269609) | MicroBus A: Río Taquiña → Villa Israel | A | Río Taquiña | Villa Israel | ✅
-[11678428](https://www.openstreetmap.org/relation/11678428) | Tranvía Amarilla: Cochabamba → Jorge Wilstermann | A | Cochabamba | Jorge Wilstermann | ✅
-[19604339](https://www.openstreetmap.org/relation/19604339) | Tranvía Amarilla: Jorge Wilstermann → Cochabamba | A | Jorge Wilstermann | Cochabamba | ✅
+[11678428](https://www.openstreetmap.org/relation/11678428) | Línea Amarilla: Cochabamba → Maica Chica | A | Cochabamba | Maica Chica | ✅
+[19604339](https://www.openstreetmap.org/relation/19604339) | Lína Amarilla: Maica Chica → Cochabamba | A | Maica Chica | Cochabamba | ✅
 [4247869](https://www.openstreetmap.org/relation/4247869) | MicroBus B: Calle Las Buganvillas → Pasaje F | B | Calle Las Buganvillas | Pasaje F | ✅
 [4420889](https://www.openstreetmap.org/relation/4420889) | MicroBus B: Pasaje F → Calle Las Buganvillas | B | Pasaje F | Calle Las Buganvillas | ✅
 [4430244](https://www.openstreetmap.org/relation/4430244) | MicroBus C: Avenida Pedro de la Gasca → Calle Manuel Carrasco Jimenez | C | Avenida Pedro de la Gasca | Calle Manuel Carrasco Jimenez | ✅
 [4433300](https://www.openstreetmap.org/relation/4433300) | MicroBus C: Calle Manuel Carrasco Jimenez → Avenida Pedro de la Gasca | C | Calle Manuel Carrasco Jimenez | Avenida Pedro de la Gasca | ✅
 [20395613](https://www.openstreetmap.org/relation/20395613) | Trufi Calama: Col. Calama → Pacheco | Calama | Col. Calama | Pacheco | ✅
 [20395625](https://www.openstreetmap.org/relation/20395625) | Trufi Calama: Pacheco → Col. Calama | Calama | Pacheco | Col. Calama | ✅
+[20748881](https://www.openstreetmap.org/relation/20748881) | Trufi Cotapachi: Cotapachi → 14 de septiembre | Cotapachi | Cotapachi | 14 de septiembre | ✅
+[20748891](https://www.openstreetmap.org/relation/20748891) | Trufi Cotapachi: 14 de septiembre → Cotapachi | Cotapachi | 14 de septiembre | Cotapachi | ✅
 [4443362](https://www.openstreetmap.org/relation/4443362) | MicroBus E: Avenida Chacancalle → Avenida Circunvalación | E | Avenida Chacancalle | Avenida Circunvalación | ✅
 [4443363](https://www.openstreetmap.org/relation/4443363) | MicroBus E: Avenida Circunvalación → Avenida Chacancalle | E | Avenida Circunvalación | Avenida Chacancalle | ✅
 [11103749](https://www.openstreetmap.org/relation/11103749) | MicroBus F: La Maica Chica → Calle 2 | F | La Maica Chica | Calle 2 | ✅
 [11103802](https://www.openstreetmap.org/relation/11103802) | MicroBus F: Calle 2 → La Maica Chica | F | Calle 2 | La Maica Chica | ✅
 [5387552](https://www.openstreetmap.org/relation/5387552) | MicroBus G: Calle Alipio Valencia Vega → Avenida Arquímedes | G | Calle Alipio Valencia Vega | Avenida Arquímedes | ✅
 [5387555](https://www.openstreetmap.org/relation/5387555) | MicroBus G: Calle Avenida Arquímedes → Calle Alipio Valencia Vega | G | Calle Avenida Arquímedes | Calle Alipio Valencia Vega | ✅
-[5457000](https://www.openstreetmap.org/relation/5457000) | MicroBus H: Chapare → Río Parapetí | H | Chapare | Río Parapetí | ✅
-[5457001](https://www.openstreetmap.org/relation/5457001) | MicroBus H: Río Parapetí → Chapare | H | Río Parapetí | Chapare | ✅
+[5457000](https://www.openstreetmap.org/relation/5457000) | MicroBus H: Avenida Chapare → Avenida Río Parapeti | H | Avenida Chapare | Avenida Río Parapeti | ✅
+[5457001](https://www.openstreetmap.org/relation/5457001) | MicroBus H: Avenida Río Parapeti → Avenida Chapare | H | Avenida Río Parapeti | Avenida Chapare | ✅
 [9985626](https://www.openstreetmap.org/relation/9985626) | MicroBus I: Avenida Circunvalación → Calle La Rioja | I | Avenida Circunvalación | Calle La Rioja | ✅
 [10786894](https://www.openstreetmap.org/relation/10786894) | MicroBus I: Calle La Rioja → Avenida Circunvalación | I | Calle La Rioja | Avenida Circunvalación | ✅
 [10706216](https://www.openstreetmap.org/relation/10706216) | MicroBus K: Avenida del Ruiseñor → Avenida Arquímedes | K | Avenida del Ruiseñor | Avenida Arquímedes | ✅
@@ -44,32 +46,32 @@
 [11132650](https://www.openstreetmap.org/relation/11132650) | MiniBus N: Arco → Poligono | N | Arco | Poligono | ✅
 [10709736](https://www.openstreetmap.org/relation/10709736) | MicroBus O: Sau Sau Loma → Segunda Circunvalación | O | Sau Sau Loma | Segunda Circunvalación | ✅
 [10712108](https://www.openstreetmap.org/relation/10712108) | MicroBus O: Segunda Circunvalación → Sau Sau Loma | O | Segunda Circunvalación | Sau Sau Loma | ✅
-[10176999](https://www.openstreetmap.org/relation/10176999) | Trufi P: Calle Gran Chaco → Puente Quenamari | P | Calle Gran Chaco | Puente Quenamari | ✅
+[10176999](https://www.openstreetmap.org/relation/10176999) | Trufi P: Calle Gran Chaco → Puente Quinamari | P | Calle Gran Chaco | Puente Quinamari | ✅
 [10443585](https://www.openstreetmap.org/relation/10443585) | Trufi P: Calle Gran Chaco → Maica Central | P | Calle Gran Chaco | Maica Central | ✅
 [10668749](https://www.openstreetmap.org/relation/10668749) | Trufi P: Maica Central → Calle Gran Chaco | P | Maica Central | Calle Gran Chaco | ✅
-[15749345](https://www.openstreetmap.org/relation/15749345) | Trufi P: Puente Quenamari → Calle Gran Chaco | P | Puente Quenamari | Calle Gran Chaco | ✅
+[15749345](https://www.openstreetmap.org/relation/15749345) | Trufi P: Puente Quinamari → Calle Gran Chaco | P | Puente Quinamari | Calle Gran Chaco | ✅
 [16648043](https://www.openstreetmap.org/relation/16648043) | Trufi Punata: Punata → Cochabamba | Punata | Punata | Cochabamba | ✅
 [5457263](https://www.openstreetmap.org/relation/5457263) | MicroBus Q: Villa Urkupiña Calvario → Avenida Circuito Bolivia | Q | Villa Urkupiña Calvario | Avenida Circuito Bolivia | ✅
 [9645302](https://www.openstreetmap.org/relation/9645302) | MicroBus Q: Avenida Circuito Bolivia → Villa Urkupiña Calvario | Q | Avenida Circuito Bolivia | Villa Urkupiña Calvario | ✅
 [20279144](https://www.openstreetmap.org/relation/20279144) | MicroBus Q: Villa Urkupiña Calvario → Avenida Circuito Bolivia | Q | Villa Urkupiña Calvario | Avenida Circuito Bolivia | ✅
 [20284412](https://www.openstreetmap.org/relation/20284412) | MicroBus Q: Avenida Circuito Bolivia → Villa Urkupiña Calvario | Q | Avenida Circuito Bolivia | Villa Urkupiña Calvario | ✅
-[9083839](https://www.openstreetmap.org/relation/9083839) | Tranvía Roja: Cochabamba → Kiñiloma | R | Cochabamba | Kiñiloma | ✅
+[9083839](https://www.openstreetmap.org/relation/9083839) | Línea Roja: Cochabamba → Kiñiloma | R | Cochabamba | Kiñiloma | ✅
 [9119233](https://www.openstreetmap.org/relation/9119233) | MicroBus R: Bello Horizonte → Avenida Arquímedes | R | Bello Horizonte | Avenida Arquímedes | ✅
 [9123985](https://www.openstreetmap.org/relation/9123985) | MicroBus R: Avenida Arquímedes → Bello Horizonte | R | Avenida Arquímedes | Bello Horizonte | ✅
-[14576927](https://www.openstreetmap.org/relation/14576927) | Tranvía Roja: Kiñiloma → Cochabamba | R | Kiñiloma | Cochabamba | ✅
+[14576927](https://www.openstreetmap.org/relation/14576927) | Línea Roja: Kiñiloma → Cochabamba | R | Kiñiloma | Cochabamba | ✅
 [10668794](https://www.openstreetmap.org/relation/10668794) | MicroBus S: Calle Mendoza → Avenida Blanco Galindo | S | Calle Mendoza | Avenida Blanco Galindo | ✅
 [10677513](https://www.openstreetmap.org/relation/10677513) | MicroBus S: Avenida Blanco Galindo → Calle Mendoza | S | Avenida Blanco Galindo | Calle Mendoza | ✅
-[20141710](https://www.openstreetmap.org/relation/20141710) | Trufi Santivañez: Cochabamba → Santivañez | Santivañez | Cochabamba | Santivañez | ✅
+[20141710](https://www.openstreetmap.org/relation/20141710) | Trufi Santiváñez: Cochabamba → Santiváñez | Santiváñez | Cochabamba | Santiváñez | ✅
 [10677554](https://www.openstreetmap.org/relation/10677554) | MicroBus T: Villa Coña Coña → Calle Sacaca | T | Villa Coña Coña | Calle Sacaca | ✅
 [10807446](https://www.openstreetmap.org/relation/10807446) | MicroBus T: Calle Sacaca → Villa Coña Coña | T | Calle Sacaca | Villa Coña Coña | ✅
 [9386184](https://www.openstreetmap.org/relation/9386184) | Trufi Taquiña: Cruce Taquiña → Planta Taquiña | Taquiña | Cruce Taquiña | Planta Taquiña | ✅
 [10789860](https://www.openstreetmap.org/relation/10789860) | Trufi Taquiña: Planta Taquiña → Cruce Taquiña | Taquiña | Planta Taquiña | Cruce Taquiña | ✅
-[6925236](https://www.openstreetmap.org/relation/6925236) | Teleferico Teleférico: Parque de la Autonomía → Cristo de la Concordia | Teleférico | Parque de la Autonomía | Cristo de la Concordia | ✅
-[6925237](https://www.openstreetmap.org/relation/6925237) | Teleferico Teleférico: Cristo de la Concordia → Parque de la Autonomía | Teleférico | Cristo de la Concordia | Parque de la Autonomía | ✅
+[6925236](https://www.openstreetmap.org/relation/6925236) | Teleférico: Parque de la Autonomía → Cristo de la Concordia | Teleférico | Parque de la Autonomía | Cristo de la Concordia | ✅
+[6925237](https://www.openstreetmap.org/relation/6925237) | Teleférico: Cristo de la Concordia → Parque de la Autonomía | Teleférico | Cristo de la Concordia | Parque de la Autonomía | ✅
 [10712236](https://www.openstreetmap.org/relation/10712236) | MicroBus U: Calle Manuel Virreira → Segunda Circunvalación | U | Calle Manuel Virreira | Segunda Circunvalación | ✅
 [10712279](https://www.openstreetmap.org/relation/10712279) | MicroBus U: Segunda Circunvalación → Calle Manuel Virreira | U | Segunda Circunvalación | Calle Manuel Virreira | ✅
-[9074378](https://www.openstreetmap.org/relation/9074378) | Tranvía Verde: Suticollo → San Antonio | V | Suticollo | San Antonio | ✅
-[14576926](https://www.openstreetmap.org/relation/14576926) | Tranvía Verde: San Antonio → Suticollo | V | San Antonio | Suticollo | ✅
+[9074378](https://www.openstreetmap.org/relation/9074378) | Línea Verde: Suticollo → Cochabamba | V | Suticollo | Cochabamba | ✅
+[14576926](https://www.openstreetmap.org/relation/14576926) | Línea Verde: Cochabamba → Suticollo | V | Cochabamba | Suticollo | ✅
 [5386695](https://www.openstreetmap.org/relation/5386695) | MicroBus W: Calle Poopó → Huachi Rancho | W | Calle Poopó | Huachi Rancho | ✅
 [5386696](https://www.openstreetmap.org/relation/5386696) | MicroBus W: Huachi Rancho → Calle Poopó | W | Huachi Rancho | Calle Poopó | ✅
 [9386225](https://www.openstreetmap.org/relation/9386225) | MicroBus W: Irincollo → Calle Poopó | W | Irincollo | Calle Poopó | ✅
@@ -110,7 +112,7 @@
 [9184014](https://www.openstreetmap.org/relation/9184014) | MiniBus 10: Cerro Calomani → Calle Faustino Suarez | 10 | Cerro Calomani | Calle Faustino Suarez | ✅
 [9397897](https://www.openstreetmap.org/relation/9397897) | Trufi 010: Calle Provincia F. Baldivieso → Los Ceibos | 010 | Calle Provincia F. Baldivieso | Los Ceibos | ✅
 [9397899](https://www.openstreetmap.org/relation/9397899) | Trufi 010: Los Ceibos → Calle Provincia F. Baldivieso | 010 | Los Ceibos | Calle Provincia F. Baldivieso | ✅
-[17290523](https://www.openstreetmap.org/relation/17290523) | Trufi 010: Trafalgar → Cancha → Trafalgar | 010 | Trafalgar → Cancha | Trafalgar | ✅
+[17290523](https://www.openstreetmap.org/relation/17290523) | Trufi 010: Trafalgar → Mercado Calatayud | 010 | Trafalgar | Mercado Calatayud | ✅
 [9342276](https://www.openstreetmap.org/relation/9342276) | MiniBus 11: Los Ceibos → Calle Viena | 11 | Los Ceibos | Calle Viena | ✅
 [9342277](https://www.openstreetmap.org/relation/9342277) | MiniBus 11: Calle Viena → Los Ceibos | 11 | Calle Viena | Los Ceibos | ✅
 [9435838](https://www.openstreetmap.org/relation/9435838) | Trufi 012: Nueva Jerusalén → Calle Grover Suarez | 012 | Nueva Jerusalén | Calle Grover Suarez | ✅
@@ -133,8 +135,8 @@
 [10744108](https://www.openstreetmap.org/relation/10744108) | MiniBus 18: Avenida Uncia → Avenida Benjo Cruz | 18 | Avenida Uncia | Avenida Benjo Cruz | ✅
 [9582854](https://www.openstreetmap.org/relation/9582854) | MiniBus 19: Calle Pascual Canaviri → Calle 7 | 19 | Calle Pascual Canaviri | Calle 7 | ✅
 [9582856](https://www.openstreetmap.org/relation/9582856) | MiniBus 19: Calle 7 → Calle Pascual Canaviri | 19 | Calle 7 | Calle Pascual Canaviri | ✅
-[9582860](https://www.openstreetmap.org/relation/9582860) | MiniBus 20: Calle Provincia Barrón → Dora Halkier | 20 | Calle Provincia Barrón | Dora Halkier | ✅
-[9582862](https://www.openstreetmap.org/relation/9582862) | MiniBus 20: Dora Halkier → Calle Provincia Barrón | 20 | Dora Halkier | Calle Provincia Barrón | ✅
+[9582860](https://www.openstreetmap.org/relation/9582860) | MiniBus 20: Calle Provincia Barron → Dora Halkier | 20 | Calle Provincia Barron | Dora Halkier | ✅
+[9582862](https://www.openstreetmap.org/relation/9582862) | MiniBus 20: Dora Halkier → Calle Provincia Barron | 20 | Dora Halkier | Calle Provincia Barron | ✅
 [17193323](https://www.openstreetmap.org/relation/17193323) | Trufi 25: Calle Cleomedes → Calle Cochabamba | 25 | Calle Cleomedes | Calle Cochabamba | ✅
 [17291147](https://www.openstreetmap.org/relation/17291147) | Trufi 25: Calle Cochabamba → Calle Cleomedes | 25 | Calle Cochabamba | Calle Cleomedes | ✅
 [10742219](https://www.openstreetmap.org/relation/10742219) | MiniBus 27: Bella Vista → Calle Francis Peyton Rous | 27 | Bella Vista | Calle Francis Peyton Rous | ✅
@@ -285,8 +287,8 @@
 [16806298](https://www.openstreetmap.org/relation/16806298) | Trufi 127: Molinos → Villa Esperanza | 127 | Molinos | Villa Esperanza | ✅
 [16806299](https://www.openstreetmap.org/relation/16806299) | Trufi 127: Villa Esperanza → Salomon Romero | 127 | Villa Esperanza | Salomon Romero | ✅
 [16806300](https://www.openstreetmap.org/relation/16806300) | Trufi 127: Villa Esperanza → Molinos | 127 | Villa Esperanza | Molinos | ✅
-[9715360](https://www.openstreetmap.org/relation/9715360) | Trufi 130: Avenida Centenario → Avenida Circunvalación | 130 | Avenida Centenario | Avenida Circunvalación | ✅
-[9717256](https://www.openstreetmap.org/relation/9717256) | Trufi 130: Centenario → Centenario | 130 | Centenario | Centenario | ✅
+[9715360](https://www.openstreetmap.org/relation/9715360) | Trufi 130: Centenario → Circuito Bolivia | 130 | Centenario | Circuito Bolivia | ✅
+[9717256](https://www.openstreetmap.org/relation/9717256) | Trufi 130: Centenario → Circuito Bolivia | 130 | Centenario | Circuito Bolivia | ✅
 [9582571](https://www.openstreetmap.org/relation/9582571) | Trufi 131: Calle La Rioja → Calle Lucia Alcocer | 131 | Calle La Rioja | Calle Lucia Alcocer | ✅
 [9582573](https://www.openstreetmap.org/relation/9582573) | Trufi 131: Calle Lucia Alcocer → Calle La Rioja | 131 | Calle Lucia Alcocer | Calle La Rioja | ✅
 [10695765](https://www.openstreetmap.org/relation/10695765) | Trufi 132: Torrentera Arocagua Mayu → Avenida Autonomía | 132 | Torrentera Arocagua Mayu | Avenida Autonomía | ✅
@@ -395,10 +397,10 @@
 [10413255](https://www.openstreetmap.org/relation/10413255) | MiniBus 210: Avenida Blanco Galindo → Calle República de Nicaragua | 210 | Avenida Blanco Galindo | Calle República de Nicaragua | ✅
 [11116951](https://www.openstreetmap.org/relation/11116951) | MiniBus 210: República de Nicaragua → UE El Paso | 210 | República de Nicaragua | UE El Paso | ✅
 [11118440](https://www.openstreetmap.org/relation/11118440) | MiniBus 210: UE El Paso → República de Nicaragua | 210 | UE El Paso | República de Nicaragua | ✅
-[4436907](https://www.openstreetmap.org/relation/4436907) | MiniBus 211: Calle C. Serruto, Quillacollo → Parque Ecoturístico Pairumani | 211 | Calle C. Serruto, Quillacollo | Parque Ecoturístico Pairumani | ✅
+[4436907](https://www.openstreetmap.org/relation/4436907) | MiniBus 211: Carmela Serruto → Parque Ecoturístico Pairumani | 211 | Carmela Serruto | Parque Ecoturístico Pairumani | ✅
 [10411266](https://www.openstreetmap.org/relation/10411266) | MiniBus 211: Calle Achachairú → Avenida Blanco Galindo | 211 | Calle Achachairú | Avenida Blanco Galindo | ✅
 [10413052](https://www.openstreetmap.org/relation/10413052) | MiniBus 211: Avenida Blanco Galindo → Calle Achachairú | 211 | Avenida Blanco Galindo | Calle Achachairú | ✅
-[11015478](https://www.openstreetmap.org/relation/11015478) | MiniBus 211: Parque Ecoturístico Pairumani → Calle C. Serruto, Quillacollo | 211 | Parque Ecoturístico Pairumani | Calle C. Serruto, Quillacollo | ✅
+[11015478](https://www.openstreetmap.org/relation/11015478) | MiniBus 211: Parque Ecoturístico Pairumani → Carmela Serruto | 211 | Parque Ecoturístico Pairumani | Carmela Serruto | ✅
 [11116822](https://www.openstreetmap.org/relation/11116822) | MiniBus 211: Calle Victor Paz Estenssoro → Calle Tupiyan | 211 | Calle Victor Paz Estenssoro | Calle Tupiyan | ✅
 [11118511](https://www.openstreetmap.org/relation/11118511) | MiniBus 211: Calle Tupiyan → Calle Victor Paz Estenssoro | 211 | Calle Tupiyan | Calle Victor Paz Estenssoro | ✅
 [11118564](https://www.openstreetmap.org/relation/11118564) | MiniBus 211: Calle Victor Paz Estenssoro → Illataco | 211 | Calle Victor Paz Estenssoro | Illataco | ✅
@@ -409,94 +411,149 @@
 [11118647](https://www.openstreetmap.org/relation/11118647) | MiniBus 211: Combuyo → Calle Victor Paz Estenssoro | 211 | Combuyo | Calle Victor Paz Estenssoro | ✅
 [11118654](https://www.openstreetmap.org/relation/11118654) | MiniBus 211: Calle Victor Paz Estenssoro → Avenida Santa Cruz | 211 | Calle Victor Paz Estenssoro | Avenida Santa Cruz | ✅
 [11118661](https://www.openstreetmap.org/relation/11118661) | MiniBus 211: Avenida Santa Cruz → Calle Victor Paz Estenssoro | 211 | Avenida Santa Cruz | Calle Victor Paz Estenssoro | ✅
-[10411209](https://www.openstreetmap.org/relation/10411209) | MiniBus 212: Fabril huayllani → Maica central | 212 | Fabril huayllani | Maica central | ✅
-[10411245](https://www.openstreetmap.org/relation/10411245) | MiniBus 212: Maica central → Fabril huayllani | 212 | Maica central | Fabril huayllani | ✅
-[16144313](https://www.openstreetmap.org/relation/16144313) | MiniBus 212: Los molles → Colombia | 212 | Los molles | Colombia | ✅
-[16147024](https://www.openstreetmap.org/relation/16147024) | MiniBus 212: Colombia → Los molles | 212 | Colombia | Los molles | ✅
-[16289273](https://www.openstreetmap.org/relation/16289273) | MiniBus 212: Huanuni → Esmeralda Norte | 212 | Huanuni | Esmeralda Norte | ✅
-[16294397](https://www.openstreetmap.org/relation/16294397) | MiniBus 212: Esmeralda norte → Huanuni | 212 | Esmeralda norte | Huanuni | ✅
-[16294409](https://www.openstreetmap.org/relation/16294409) | MiniBus 212: Circunvalación → Quenamari | 212 | Circunvalación | Quenamari | ✅
-[16294410](https://www.openstreetmap.org/relation/16294410) | MiniBus 212: Quenamari → Circunvalación | 212 | Quenamari | Circunvalación | ✅
-[20739249](https://www.openstreetmap.org/relation/20739249) | MiniBus 212: Villa obrajes → Hipermaxi | 212 | Villa obrajes | Hipermaxi | ✅
-[20739256](https://www.openstreetmap.org/relation/20739256) | MiniBus 212: Hipermaxi → Villa obrajes | 212 | Hipermaxi | Villa obrajes | ✅
-[20739288](https://www.openstreetmap.org/relation/20739288) | MiniBus 212: Hipermaxi → Tapocopa | 212 | Hipermaxi | Tapocopa | ✅
-[20739301](https://www.openstreetmap.org/relation/20739301) | MiniBus 212: Tapocopa → Hipermaxi | 212 | Tapocopa | Hipermaxi | ✅
-[20739310](https://www.openstreetmap.org/relation/20739310) | MiniBus 212: Hipermaxi → Canalpata | 212 | Hipermaxi | Canalpata | ✅
-[20739312](https://www.openstreetmap.org/relation/20739312) | MiniBus 212: Canalpata → Hipermaxi | 212 | Canalpata | Hipermaxi | ✅
-[20739377](https://www.openstreetmap.org/relation/20739377) | MiniBus 212: Villa obrajes → Huanuni | 212 | Villa obrajes | Huanuni | ✅
-[20739391](https://www.openstreetmap.org/relation/20739391) | MiniBus 212: Huanuni → Villa obrajes | 212 | Huanuni | Villa obrajes | ✅
-[20739394](https://www.openstreetmap.org/relation/20739394) | MiniBus 212: Villa obrajes → Huanuni | 212 | Villa obrajes | Huanuni | ✅
-[20739395](https://www.openstreetmap.org/relation/20739395) | MiniBus 212: Huanuni → Villa obrajes | 212 | Huanuni | Villa obrajes | ✅
-[20739455](https://www.openstreetmap.org/relation/20739455) | MiniBus 212: Colombia → Hipermaxi | 212 | Colombia | Hipermaxi | ✅
-[20739466](https://www.openstreetmap.org/relation/20739466) | MiniBus 212: Hipermaxi → Colombia | 212 | Hipermaxi | Colombia | ✅
-[20739779](https://www.openstreetmap.org/relation/20739779) | MiniBus 212: Hipermaxi → Pucara | 212 | Hipermaxi | Pucara | ✅
-[20742413](https://www.openstreetmap.org/relation/20742413) | MiniBus 212: Korihuma II → Hipermaxi | 212 | Korihuma II | Hipermaxi | ✅
-[20742755](https://www.openstreetmap.org/relation/20742755) | MiniBus 212: Hipermaxi → Korihuma II | 212 | Hipermaxi | Korihuma II | ✅
-[20742882](https://www.openstreetmap.org/relation/20742882) | MiniBus 212: Tuska alto → Hipermaxi | 212 | Tuska alto | Hipermaxi | ✅
-[20742894](https://www.openstreetmap.org/relation/20742894) | MiniBus 212: Hipermaxi → Tuska alto | 212 | Hipermaxi | Tuska alto | ✅
-[20742917](https://www.openstreetmap.org/relation/20742917) | MiniBus 212: Hipermaxi → Valle paraiso | 212 | Hipermaxi | Valle paraiso | ✅
-[20742923](https://www.openstreetmap.org/relation/20742923) | MiniBus 212: Valle paraiso → Hipermaxi | 212 | Valle paraiso | Hipermaxi | ✅
-[20742926](https://www.openstreetmap.org/relation/20742926) | MiniBus 212: Hipermaxi → Pueblito | 212 | Hipermaxi | Pueblito | ✅
-[20742931](https://www.openstreetmap.org/relation/20742931) | MiniBus 212: Pueblito → Hipermaxi | 212 | Pueblito | Hipermaxi | ✅
+[10411209](https://www.openstreetmap.org/relation/10411209) | Trufi 212: Fabril huayllani → Maica central | 212 | Fabril huayllani | Maica central | ✅
+[10411245](https://www.openstreetmap.org/relation/10411245) | Trufi 212: Maica central → Fabril huayllani | 212 | Maica central | Fabril huayllani | ✅
+[16144313](https://www.openstreetmap.org/relation/16144313) | Trufi 212: Los molles → Colombia | 212 | Los molles | Colombia | ✅
+[16147024](https://www.openstreetmap.org/relation/16147024) | Trufi 212: Colombia → Los molles | 212 | Colombia | Los molles | ✅
+[16289273](https://www.openstreetmap.org/relation/16289273) | Trufi 212: Huanuni → Esmeralda Norte | 212 | Huanuni | Esmeralda Norte | ✅
+[16294397](https://www.openstreetmap.org/relation/16294397) | Trufi 212: Esmeralda norte → Huanuni | 212 | Esmeralda norte | Huanuni | ✅
+[16294409](https://www.openstreetmap.org/relation/16294409) | Trufi 212: Circunvalación → Quenamari | 212 | Circunvalación | Quenamari | ✅
+[16294410](https://www.openstreetmap.org/relation/16294410) | Trufi 212: Quenamari → Circunvalación | 212 | Quenamari | Circunvalación | ✅
+[20739249](https://www.openstreetmap.org/relation/20739249) | Trufi 212: Villa obrajes → Hipermaxi | 212 | Villa obrajes | Hipermaxi | ✅
+[20739256](https://www.openstreetmap.org/relation/20739256) | Trufi 212: Hipermaxi → Villa obrajes | 212 | Hipermaxi | Villa obrajes | ✅
+[20739288](https://www.openstreetmap.org/relation/20739288) | Trufi 212: Hipermaxi → Tapocopa | 212 | Hipermaxi | Tapocopa | ✅
+[20739301](https://www.openstreetmap.org/relation/20739301) | Trufi 212: Tapocopa → Hipermaxi | 212 | Tapocopa | Hipermaxi | ✅
+[20739310](https://www.openstreetmap.org/relation/20739310) | Trufi 212: Hipermaxi → Canalpata | 212 | Hipermaxi | Canalpata | ✅
+[20739312](https://www.openstreetmap.org/relation/20739312) | Trufi 212: Canalpata → Hipermaxi | 212 | Canalpata | Hipermaxi | ✅
+[20739377](https://www.openstreetmap.org/relation/20739377) | Trufi 212: Villa obrajes → Huanuni | 212 | Villa obrajes | Huanuni | ✅
+[20739391](https://www.openstreetmap.org/relation/20739391) | Trufi 212: Huanuni → Villa obrajes | 212 | Huanuni | Villa obrajes | ✅
+[20739394](https://www.openstreetmap.org/relation/20739394) | Trufi 212: Villa obrajes → Huanuni | 212 | Villa obrajes | Huanuni | ✅
+[20739395](https://www.openstreetmap.org/relation/20739395) | Trufi 212: Huanuni → Villa obrajes | 212 | Huanuni | Villa obrajes | ✅
+[20739455](https://www.openstreetmap.org/relation/20739455) | Trufi 212: Colombia → Hipermaxi | 212 | Colombia | Hipermaxi | ✅
+[20739466](https://www.openstreetmap.org/relation/20739466) | Trufi 212: Hipermaxi → Colombia | 212 | Hipermaxi | Colombia | ✅
+[20739779](https://www.openstreetmap.org/relation/20739779) | Trufi 212: Hipermaxi → Pucara | 212 | Hipermaxi | Pucara | ✅
+[20742413](https://www.openstreetmap.org/relation/20742413) | Trufi 212: Korihuma II → Hipermaxi | 212 | Korihuma II | Hipermaxi | ✅
+[20742755](https://www.openstreetmap.org/relation/20742755) | Trufi 212: Hipermaxi → Korihuma II | 212 | Hipermaxi | Korihuma II | ✅
+[20742882](https://www.openstreetmap.org/relation/20742882) | Trufi 212: Tuska alto → Hipermaxi | 212 | Tuska alto | Hipermaxi | ✅
+[20742894](https://www.openstreetmap.org/relation/20742894) | Trufi 212: Hipermaxi → Tuska alto | 212 | Hipermaxi | Tuska alto | ✅
+[20742917](https://www.openstreetmap.org/relation/20742917) | Trufi 212: Hipermaxi → Valle paraiso | 212 | Hipermaxi | Valle paraiso | ✅
+[20742923](https://www.openstreetmap.org/relation/20742923) | Trufi 212: Valle paraiso → Hipermaxi | 212 | Valle paraiso | Hipermaxi | ✅
+[20742926](https://www.openstreetmap.org/relation/20742926) | Trufi 212: Hipermaxi → Pueblito | 212 | Hipermaxi | Pueblito | ✅
+[20742931](https://www.openstreetmap.org/relation/20742931) | Trufi 212: Pueblito → Hipermaxi | 212 | Pueblito | Hipermaxi | ✅
+[20744199](https://www.openstreetmap.org/relation/20744199) | Trufi 212: Pucara → Hipermaxi | 212 | Pucara | Hipermaxi | ✅
+[20744210](https://www.openstreetmap.org/relation/20744210) | Trufi 212: Villa Animas → Hipermaxi | 212 | Villa Animas | Hipermaxi | ✅
+[20744224](https://www.openstreetmap.org/relation/20744224) | Trufi 212: Hipermaxi → Villa Animas | 212 | Hipermaxi | Villa Animas | ✅
+[20747650](https://www.openstreetmap.org/relation/20747650) | Trufi 212: Lava Lava Churitia → Hipermaxi | 212 | Lava Lava Churitia | Hipermaxi | ✅
+[20747921](https://www.openstreetmap.org/relation/20747921) | Trufi 212: Hipermaxi → Lava Lava Churitia | 212 | Hipermaxi | Lava Lava Churitia | ✅
+[20748076](https://www.openstreetmap.org/relation/20748076) | Trufi 212: Lava Lava Alta → Hipermaxi | 212 | Lava Lava Alta | Hipermaxi | ✅
+[20748115](https://www.openstreetmap.org/relation/20748115) | Trufi 212: Hipermaxi → Lava Lava Alta | 212 | Hipermaxi | Lava Lava Alta | ✅
+[20748186](https://www.openstreetmap.org/relation/20748186) | Trufi 212: Corralones → Hipermaxi | 212 | Corralones | Hipermaxi | ✅
+[20748214](https://www.openstreetmap.org/relation/20748214) | Trufi 212: Hipermaxi → Corralones | 212 | Hipermaxi | Corralones | ✅
+[20748279](https://www.openstreetmap.org/relation/20748279) | Trufi 212: Lava Lava Alto Obrajes → Hipermaxi | 212 | Lava Lava Alto Obrajes | Hipermaxi | ✅
+[20748285](https://www.openstreetmap.org/relation/20748285) | Trufi 212: Hipermaxi → Lava Lava Alto Obrajes | 212 | Hipermaxi | Lava Lava Alto Obrajes | ✅
+[20750134](https://www.openstreetmap.org/relation/20750134) | Trufi 212: Hipermaxi → Lava Lava | 212 | Hipermaxi | Lava Lava | ✅
+[20750152](https://www.openstreetmap.org/relation/20750152) | Trufi 212: Lava Lava → Hipermaxi | 212 | Lava Lava | Hipermaxi | ✅
+[20750730](https://www.openstreetmap.org/relation/20750730) | Trufi 212: Maderero → Los molles | 212 | Maderero | Los molles | ✅
+[20750736](https://www.openstreetmap.org/relation/20750736) | Trufi 212: Los molles → Maderero | 212 | Los molles | Maderero | ✅
+[20750747](https://www.openstreetmap.org/relation/20750747) | Trufi 212: Villa Obrajes → Los molles | 212 | Villa Obrajes | Los molles | ✅
+[20750759](https://www.openstreetmap.org/relation/20750759) | Trufi 212: Los molles → Villa Obrajes | 212 | Los molles | Villa Obrajes | ✅
 [10721892](https://www.openstreetmap.org/relation/10721892) | MiniBus 217: Pacata Central → Calle 12 de septiembre | 217 | Pacata Central | Calle 12 de septiembre | ✅
 [10722066](https://www.openstreetmap.org/relation/10722066) | MiniBus 217: Calle 12 de septiembre → Pacata Central | 217 | Calle 12 de septiembre | Pacata Central | ✅
 [9458460](https://www.openstreetmap.org/relation/9458460) | MicroBus 220: Avenida Eliodoro Villazón → Calle Eric Asplund | 220 | Avenida Eliodoro Villazón | Calle Eric Asplund | ✅
 [9458471](https://www.openstreetmap.org/relation/9458471) | MicroBus 220: Calle Eric Asplund → Avenida Eliodoro Villazón | 220 | Calle Eric Asplund | Avenida Eliodoro Villazón | ✅
-[9377783](https://www.openstreetmap.org/relation/9377783) | Trufi 230: Calle Grover Suarez → Avenida Eliodoro Villazón | 230 | Calle Grover Suarez | Avenida Eliodoro Villazón | ✅
-[9377784](https://www.openstreetmap.org/relation/9377784) | Trufi 230: Avenida Eliodoro Villazón → Calle Grover Suarez | 230 | Avenida Eliodoro Villazón | Calle Grover Suarez | ✅
-[9377625](https://www.openstreetmap.org/relation/9377625) | MiniBus 232: Calle Isla del Sol → Avenida Eliodoro Villazón | 232 | Calle Isla del Sol | Avenida Eliodoro Villazón | ✅
-[9377626](https://www.openstreetmap.org/relation/9377626) | MiniBus 232: Avenida Eliodoro Villazón → Calle Isla del Sol | 232 | Avenida Eliodoro Villazón | Calle Isla del Sol | ✅
-[9458409](https://www.openstreetmap.org/relation/9458409) | MiniBus 233: Calle Nicolás Maldonado → Calle Manuel P. Laredo | 233 | Calle Nicolás Maldonado | Calle Manuel P. Laredo | ✅
-[9458419](https://www.openstreetmap.org/relation/9458419) | MiniBus 233: Calle Manuel P. Laredo → Calle Nicolás Maldonado | 233 | Calle Manuel P. Laredo | Calle Nicolás Maldonado | ✅
-[11134008](https://www.openstreetmap.org/relation/11134008) | MiniBus 233: Loreto → Chiñata | 233 | Loreto | Chiñata | ✅
-[11134477](https://www.openstreetmap.org/relation/11134477) | MiniBus 233: Chiñata → Loreto | 233 | Chiñata | Loreto | ✅
-[11137986](https://www.openstreetmap.org/relation/11137986) | MiniBus 233: Calle Manuel P. Laredo → Rio | 233 | Calle Manuel P. Laredo | Rio | ✅
-[11138009](https://www.openstreetmap.org/relation/11138009) | MiniBus 233: Rio → Calle Manuel P. Laredo | 233 | Rio | Calle Manuel P. Laredo | ✅
-[11138084](https://www.openstreetmap.org/relation/11138084) | MiniBus 233: Arocagua → Calle Manuel P. Laredo | 233 | Arocagua | Calle Manuel P. Laredo | ✅
-[11138128](https://www.openstreetmap.org/relation/11138128) | MiniBus 233: Calle Manuel P. Laredo → Arocagua | 233 | Calle Manuel P. Laredo | Arocagua | ✅
-[11138764](https://www.openstreetmap.org/relation/11138764) | MiniBus 233: Morro → Calle Manuel P. Laredo | 233 | Morro | Calle Manuel P. Laredo | ✅
-[11138791](https://www.openstreetmap.org/relation/11138791) | MiniBus 233: Calle Manuel P. Laredo → Morro | 233 | Calle Manuel P. Laredo | Morro | ✅
-[16144238](https://www.openstreetmap.org/relation/16144238) | MiniBus 233: Calle Manuel P. Laredo → El Abra - Castillo | 233 | Calle Manuel P. Laredo | El Abra - Castillo | ✅
-[16283966](https://www.openstreetmap.org/relation/16283966) | MiniBus 233: El Abra - Castillo → Calle Manuel P. Laredo | 233 | El Abra - Castillo | Calle Manuel P. Laredo | ✅
-[20709798](https://www.openstreetmap.org/relation/20709798) | MiniBus 233: Loreto → Alto Paraiso | 233 | Loreto | Alto Paraiso | ✅
-[20712010](https://www.openstreetmap.org/relation/20712010) | MiniBus 233: Mayu molino → Loreto | 233 | Mayu molino | Loreto | ✅
-[20712101](https://www.openstreetmap.org/relation/20712101) | MiniBus 233: Loreto → Mayu molino | 233 | Loreto | Mayu molino | ✅
-[20712133](https://www.openstreetmap.org/relation/20712133) | MiniBus 233: Alto Paraiso → Loreto | 233 | Alto Paraiso | Loreto | ✅
-[20727438](https://www.openstreetmap.org/relation/20727438) | MiniBus 233: Morro-Amancayas → Loreto | 233 | Morro-Amancayas | Loreto | ✅
-[20738535](https://www.openstreetmap.org/relation/20738535) | MiniBus 233: Molino blanco → Loreto | 233 | Molino blanco | Loreto | ✅
-[20738585](https://www.openstreetmap.org/relation/20738585) | MiniBus 233: Loreto → Molino blanco | 233 | Loreto | Molino blanco | ✅
-[20738597](https://www.openstreetmap.org/relation/20738597) | MiniBus 233: Lopez rancho → Loreto | 233 | Alto Paraiso | Loreto | ✅
-[20738609](https://www.openstreetmap.org/relation/20738609) | MiniBus 233: Loreto → Lopez rancho | 233 | Loreto | Lopez rancho | ✅
-[20738734](https://www.openstreetmap.org/relation/20738734) | MiniBus 233: Simon rodriguez → Loreto | 233 | Simon rodriguez | Loreto | ✅
-[20738745](https://www.openstreetmap.org/relation/20738745) | MiniBus 233: Loreto → Simon rodriguez | 233 | Loreto | Lopez rancho | ✅
-[20739192](https://www.openstreetmap.org/relation/20739192) | MiniBus 233: Ulincate → Loreto | 233 | Ulincate | Loreto | ✅
-[20739392](https://www.openstreetmap.org/relation/20739392) | MiniBus 233: Loreto → Ulincate | 233 | Loreto | Ulincate | ✅
-[20739434](https://www.openstreetmap.org/relation/20739434) | MiniBus 233: Loreto → Morro-Amancayas | 233 | Loreto | Morro-Amancayas | ✅
-[20739495](https://www.openstreetmap.org/relation/20739495) | MiniBus 233: Alto Paraiso → Loreto | 233 | Alto Paraiso | Loreto | ✅
-[20739527](https://www.openstreetmap.org/relation/20739527) | MiniBus 233: Loreto → Tacoloma | 233 | Loreto | Tacoloma | ✅
-[9377675](https://www.openstreetmap.org/relation/9377675) | MiniBus 240: Calle Trojes → Avenida Eliodoro Villazón | 240 | Calle Trojes | Avenida Eliodoro Villazón | ✅
-[9377676](https://www.openstreetmap.org/relation/9377676) | MiniBus 240: Avenida Eliodoro Villazón → Calle Trojes | 240 | Avenida Eliodoro Villazón | Calle Trojes | ✅
-[10722104](https://www.openstreetmap.org/relation/10722104) | MiniBus 241: Avenida Eliodoro Villazón → Avenida Pedro deToledo | 241 | Avenida Eliodoro Villazón | Avenida Pedro deToledo | ✅
-[10722148](https://www.openstreetmap.org/relation/10722148) | MiniBus 241: Avenida Pedro deToledo → Avenida Eliodoro Villazón | 241 | Avenida Pedro deToledo | Avenida Eliodoro Villazón | ✅
-[11140017](https://www.openstreetmap.org/relation/11140017) | MiniBus 241: Avenida Pedro deToledo → Tutimayo | 241 | Avenida Pedro deToledo | Tutimayo | ✅
-[11140123](https://www.openstreetmap.org/relation/11140123) | MiniBus 241: Tutimayo → Avenida Pedro deToledo | 241 | Tutimayo | Avenida Pedro deToledo | ✅
-[11140612](https://www.openstreetmap.org/relation/11140612) | MiniBus 241: Avenida Pedro de Toledo → Calle Colombia | 241 | Avenida Pedro de Toledo | Calle Colombia | ✅
-[11140643](https://www.openstreetmap.org/relation/11140643) | MiniBus 241: Calle Colombia → Avenida Pedro deToledo | 241 | Calle Colombia | Avenida Pedro deToledo | ✅
-[11140668](https://www.openstreetmap.org/relation/11140668) | MiniBus 241: Avenida Pedro de Toledo → Molino Blanco | 241 | Avenida Pedro de Toledo | Molino Blanco | ✅
-[11140677](https://www.openstreetmap.org/relation/11140677) | MiniBus 241: Molino Blanco → Avenida Pedro deToledo | 241 | Molino Blanco | Avenida Pedro deToledo | ✅
-[10742692](https://www.openstreetmap.org/relation/10742692) | MiniBus 242: Chiñata → Coraca | 242 | Chiñata | Coraca | ✅
+[20744022](https://www.openstreetmap.org/relation/20744022) | Trufi 220: Villa Obrajes → Chavez Rancho | 220 | Villa Obrajes | Chavez Rancho | ✅
+[20744132](https://www.openstreetmap.org/relation/20744132) | Trufi 220: Chavez Rancho → Villa Obrajes | 220 | Chavez Rancho | Villa Obrajes | ✅
+[20744140](https://www.openstreetmap.org/relation/20744140) | Trufi 220: Fabril Huayllani → Chavez Rancho | 220 | Fabril Huayllani | Chavez Rancho | ✅
+[20744156](https://www.openstreetmap.org/relation/20744156) | Trufi 220: Chavez Rancho → Fabril Huayllani | 220 | Chavez Rancho | Fabril Huayllani | ✅
+[20744165](https://www.openstreetmap.org/relation/20744165) | Trufi 220: Chavez Rancho → Lava Lava Baja | 220 | Chavez Rancho | Lava Lava Baja | ✅
+[9377783](https://www.openstreetmap.org/relation/9377783) | Trufi 230: Mercado Coraca → Chiñata | 230 | Mercado Coraca | Chiñata | ✅
+[9377784](https://www.openstreetmap.org/relation/9377784) | Trufi 230: Chiñata → Mercado Coraca | 230 | Chiñata | Mercado Coraca | ✅
+[20773810](https://www.openstreetmap.org/relation/20773810) | Trufi 230: Normal Simón Rodriguez → Mercado Coraca | 230 | Normal Simón Rodriguez | Mercado Coraca | ✅
+[20773812](https://www.openstreetmap.org/relation/20773812) | Trufi 230: Mercado Coraca → Normal Simón Rodriguez | 230 | Mercado Coraca | Normal Simón Rodriguez | ✅
+[20773814](https://www.openstreetmap.org/relation/20773814) | Trufi 230: Fabril Huayllani → Mercado Coraca | 230 | Fabril Huayllani | Mercado Coraca | ✅
+[20773818](https://www.openstreetmap.org/relation/20773818) | Trufi 230: Mercado Coraca → Fabril Huayllani | 230 | Mercado Coraca | Fabril Huayllani | ✅
+[20812591](https://www.openstreetmap.org/relation/20812591) | undefined | 230 | Chiñata | Mercado Coraca | ✅
+[20812592](https://www.openstreetmap.org/relation/20812592) | undefined | 230 | Mercado Coraca | Chiñata | ✅
+[9377625](https://www.openstreetmap.org/relation/9377625) | Trufi 232: Calle Isla del Sol → Avenida Eliodoro Villazón | 232 | Calle Isla del Sol | Avenida Eliodoro Villazón | ✅
+[9377626](https://www.openstreetmap.org/relation/9377626) | Trufi 232: Avenida Eliodoro Villazón → Calle Isla del Sol | 232 | Avenida Eliodoro Villazón | Calle Isla del Sol | ✅
+[20764372](https://www.openstreetmap.org/relation/20764372) | Trufi 232: Alto Obrajes → Chimba | 232 | Alto Obrajes | Chimba | ✅
+[20766640](https://www.openstreetmap.org/relation/20766640) | Trufi 232: Chimba → Alto Obrajes | 232 | Chimba | Alto Obrajes | ✅
+[9458409](https://www.openstreetmap.org/relation/9458409) | Trufi 233: Circunvalación - pacata → Loreto | 233 | Circunvalación - pacata | Loreto | ✅
+[9458419](https://www.openstreetmap.org/relation/9458419) | Trufi 233: Loreto → Circunvalación - pacata | 233 | Loreto | Circunvalación - pacata | ✅
+[11134008](https://www.openstreetmap.org/relation/11134008) | Trufi 233: Loreto → Chiñata | 233 | Loreto | Chiñata | ✅
+[11134477](https://www.openstreetmap.org/relation/11134477) | Trufi 233: Chiñata → Loreto | 233 | Chiñata | Loreto | ✅
+[11137986](https://www.openstreetmap.org/relation/11137986) | Trufi 233: Loreto → Rio | 233 | Loreto | Rio | ✅
+[11138009](https://www.openstreetmap.org/relation/11138009) | Trufi 233: Rio → Loreto | 233 | Rio | Loreto | ✅
+[11138084](https://www.openstreetmap.org/relation/11138084) | Trufi 233: Arocagua → Loreto | 233 | Arocagua | Loreto | ✅
+[11138128](https://www.openstreetmap.org/relation/11138128) | Trufi 233: Loreto → Arocagua | 233 | Loreto | Arocagua | ✅
+[11138764](https://www.openstreetmap.org/relation/11138764) | Trufi 233: Morro → Loreto | 233 | Morro | Loreto | ✅
+[11138791](https://www.openstreetmap.org/relation/11138791) | Trufi 233: Loreto → Morro | 233 | Loreto | Morro | ✅
+[16144238](https://www.openstreetmap.org/relation/16144238) | Trufi 233: Loreto → El Abra - Castillo | 233 | Loreto | El Abra - Castillo | ✅
+[16283966](https://www.openstreetmap.org/relation/16283966) | Trufi 233: El Abra - Castillo → Loreto | 233 | El Abra - Castillo | Loreto | ✅
+[20709798](https://www.openstreetmap.org/relation/20709798) | Trufi 233: Loreto → Alto Paraiso | 233 | Loreto | Alto Paraiso | ✅
+[20712010](https://www.openstreetmap.org/relation/20712010) | Trufi 233: Mayu molino → Loreto | 233 | Mayu molino | Loreto | ✅
+[20712101](https://www.openstreetmap.org/relation/20712101) | Trufi 233: Loreto → Mayu molino | 233 | Loreto | Mayu molino | ✅
+[20712133](https://www.openstreetmap.org/relation/20712133) | Trufi 233: Alto Paraiso → Loreto | 233 | Alto Paraiso | Loreto | ✅
+[20727438](https://www.openstreetmap.org/relation/20727438) | Trufi 233: Morro - Amancayas → Loreto | 233 | Morro - Amancayas | Loreto | ✅
+[20738535](https://www.openstreetmap.org/relation/20738535) | Trufi 233: Molino blanco → Loreto | 233 | Molino blanco | Loreto | ✅
+[20738585](https://www.openstreetmap.org/relation/20738585) | Trufi 233: Loreto → Molino blanco | 233 | Loreto | Molino blanco | ✅
+[20738597](https://www.openstreetmap.org/relation/20738597) | Trufi 233: Lopez rancho → Loreto | 233 | Lopez rancho | Loreto | ✅
+[20738609](https://www.openstreetmap.org/relation/20738609) | Trufi 233: Loreto → Lopez rancho | 233 | Loreto | Lopez rancho | ✅
+[20738734](https://www.openstreetmap.org/relation/20738734) | Trufi 233: Simon rodriguez → Loreto | 233 | Simon rodriguez | Loreto | ✅
+[20738745](https://www.openstreetmap.org/relation/20738745) | Trufi 233: Loreto → Simon rodriguez | 233 | Loreto | Simon rodriguez | ✅
+[20739192](https://www.openstreetmap.org/relation/20739192) | Trufi 233: Ulincate → Loreto | 233 | Ulincate | Loreto | ✅
+[20739392](https://www.openstreetmap.org/relation/20739392) | Trufi 233: Loreto → Ulincate | 233 | Loreto | Ulincate | ✅
+[20739434](https://www.openstreetmap.org/relation/20739434) | Trufi 233: Loreto → Morro - Amancayas | 233 | Loreto | Morro - Amancayas | ✅
+[20739495](https://www.openstreetmap.org/relation/20739495) | Trufi 233: Tacoloma → Loreto | 233 | Tacoloma | Loreto | ✅
+[20739527](https://www.openstreetmap.org/relation/20739527) | Trufi 233: Loreto → Tacoloma | 233 | Loreto | Tacoloma | ✅
+[20773820](https://www.openstreetmap.org/relation/20773820) | Trufi 233: Ulincate → Loreto | 233 | Ulincate | Loreto | ✅
+[20773824](https://www.openstreetmap.org/relation/20773824) | Trufi 233: Loreto → Ulincate | 233 | Loreto | Ulincate | ✅
+[20778476](https://www.openstreetmap.org/relation/20778476) | Trufi 233: Loreto → Paraiso - esmeralda | 233 | Loreto | Paraiso - esmeralda | ✅
+[20778480](https://www.openstreetmap.org/relation/20778480) | Trufi 233: Paraiso - esmeralda → Loreto | 233 | Paraiso - esmeralda | Loreto | ✅
+[20778493](https://www.openstreetmap.org/relation/20778493) | Trufi 233: Capilla → Loreto | 233 | Capilla | Loreto | ✅
+[20778495](https://www.openstreetmap.org/relation/20778495) | Trufi 233: Loreto → Capilla | 233 | Loreto | Capilla | ✅
+[20778564](https://www.openstreetmap.org/relation/20778564) | Trufi 233: Loreto → Avenida Cristo de la Concordia | 233 | Loreto | Avenida Cristo de la Concordia | ✅
+[20778567](https://www.openstreetmap.org/relation/20778567) | Trufi 233: Avenida Cristo de la Concordia → Loreto | 233 | Avenida Cristo de la Concordia | Loreto | ✅
+[20778600](https://www.openstreetmap.org/relation/20778600) | Trufi 233: Lopez Rancho Carrasco → Loreto | 233 | Lopez Rancho Carrasco | Loreto | ✅
+[20778602](https://www.openstreetmap.org/relation/20778602) | Trufi 233: Loreto → Lopez Rancho Carrasco | 233 | Loreto | Lopez Rancho Carrasco | ✅
+[20778625](https://www.openstreetmap.org/relation/20778625) | Trufi 233: Avenida Juan José Torres Gonzales → Loreto | 233 | Avenida Juan José Torres Gonzales | Loreto | ✅
+[20778645](https://www.openstreetmap.org/relation/20778645) | Trufi 233: Loreto → Avenida Juan José Torres Gonzales | 233 | Loreto | Avenida Juan José Torres Gonzales | ✅
+[9377675](https://www.openstreetmap.org/relation/9377675) | Trufi 240: Calle Trojes → Chiñata | 240 | Calle Trojes | Chiñata | ✅
+[9377676](https://www.openstreetmap.org/relation/9377676) | Trufi 240: Chiñata → Calle Trojes | 240 | Chiñata | Calle Trojes | ✅
+[10722104](https://www.openstreetmap.org/relation/10722104) | Trufi 241: Avenida Eliodoro Villazón → Avenida Valle Hermoso | 241 | Avenida Eliodoro Villazón | Avenida Valle Hermoso | ✅
+[10722148](https://www.openstreetmap.org/relation/10722148) | Trufi 241: Avenida Valle Hermoso → Avenida Eliodoro Villazón | 241 | Avenida Valle Hermoso | Avenida Eliodoro Villazón | ✅
+[11140017](https://www.openstreetmap.org/relation/11140017) | Trufi 241: Calle Samaipata → Tutimayu | 241 | Calle Samaipata | Tutimayu | ✅
+[11140123](https://www.openstreetmap.org/relation/11140123) | Trufi 241: Tutimayu → Calle Samaipata | 241 | Tutimayu | Calle Samaipata | ✅
+[20768883](https://www.openstreetmap.org/relation/20768883) | Trufi 241: Calle Samaipata → Molino Blanco | 241 | Calle Samaipata | Molino Blanco | ✅
+[20768907](https://www.openstreetmap.org/relation/20768907) | undefined | 241 | undefined | undefined | ✅
+[20769156](https://www.openstreetmap.org/relation/20769156) | Trufi 241: Choquechampi → Calle Samaipata | 241 | Choquechampi | Calle Samaipata | ✅
+[20769173](https://www.openstreetmap.org/relation/20769173) | Trufi 241: Calle Samaipata → Choquechampi | 241 | Calle Samaipata | Choquechampi | ✅
+[20769220](https://www.openstreetmap.org/relation/20769220) | Trufi 241: Lopez Rancho → Calle Samaipata | 241 | Lopez Rancho | Calle Samaipata | ✅
+[20769223](https://www.openstreetmap.org/relation/20769223) | Trufi 241: Calle Samaipata → Lopez Rancho | 241 | Calle Samaipata | Lopez Rancho | ✅
+[20769234](https://www.openstreetmap.org/relation/20769234) | Trufi 241: Huayllani → Calle Samaipata | 241 | Huayllani | Calle Samaipata | ✅
+[20769237](https://www.openstreetmap.org/relation/20769237) | Trufi 241: Calle Guatemala → Huayllani | 241 | Calle Guatemala | Huayllani | ✅
+[20769245](https://www.openstreetmap.org/relation/20769245) | Trufi 241: Mayu Molino → Calle Samaipata | 241 | Mayu Molino | Calle Samaipata | ✅
+[20769248](https://www.openstreetmap.org/relation/20769248) | Trufi 241: Calle Samaipata → Mayu Molino | 241 | Calle Samaipata | Mayu Molino | ✅
+[20769257](https://www.openstreetmap.org/relation/20769257) | Trufi 241: Río → Calle Samaipata | 241 | Río | Calle Samaipata | ✅
+[20769260](https://www.openstreetmap.org/relation/20769260) | Trufi 241: Calle Samaipata → Río | 241 | Calle Samaipata | Río | ✅
+[20769264](https://www.openstreetmap.org/relation/20769264) | Trufi 241: Curubamba → Calle Samaipata | 241 | Curubamba | Calle Samaipata | ✅
+[20769268](https://www.openstreetmap.org/relation/20769268) | Trufi 241: Calle Samaipata → Curubamba | 241 | Calle Samaipata | Curubamba | ✅
+[20772979](https://www.openstreetmap.org/relation/20772979) | Trufi 241: Calle Samaipata → Ulincate | 241 | Calle Samaipata | Ulincate | ✅
+[20773068](https://www.openstreetmap.org/relation/20773068) | Trufi 241: Ulincate → Calle Samaipata | 241 | Ulincate | Calle Samaipata | ✅
+[20773116](https://www.openstreetmap.org/relation/20773116) | Trufi 241: Tacoloma → Calle Samaipata | 241 | Tacoloma | Calle Samaipata | ✅
+[20773140](https://www.openstreetmap.org/relation/20773140) | Trufi 241: Calle Samaipata → Tacoloma | 241 | Calle Samaipata | Tacoloma | ✅
+[20773779](https://www.openstreetmap.org/relation/20773779) | Trufi 241: Normal Simón Rodriguez → Calle Samaipata | 241 | Normal Simón Rodriguez | Calle Samaipata | ✅
+[20773783](https://www.openstreetmap.org/relation/20773783) | Trufi 241: Calle Samaipata → Normal Simón Rodriguez | 241 | Calle Samaipata | Normal Simón Rodriguez | ✅
+[20773795](https://www.openstreetmap.org/relation/20773795) | Trufi 241: Carrasco Lopez Rancho → Calle Samaipata | 241 | Carrasco Lopez Rancho | Calle Samaipata | ✅
+[20773798](https://www.openstreetmap.org/relation/20773798) | Trufi 241: Calle Samaipata → Carrasco Lopez Rancho | 241 | Calle Samaipata | Carrasco Lopez Rancho | ✅
+[10742692](https://www.openstreetmap.org/relation/10742692) | Trufi 242: Chiñata → Coraca | 242 | Chiñata | Coraca | ✅
 [20701043](https://www.openstreetmap.org/relation/20701043) | MiniBus 242: Coraca → Chiñata | 242 | Coraca | Chiñata | ✅
-[10742513](https://www.openstreetmap.org/relation/10742513) | MiniBus 244: Calle Paucarpata → Avenida Eliodoro Villazón | 244 | Calle Paucarpata | Avenida Eliodoro Villazón | ✅
-[10742585](https://www.openstreetmap.org/relation/10742585) | MiniBus 244: Avenida Eliodoro Villazón → Calle Paucarpata | 244 | Avenida Eliodoro Villazón | Calle Paucarpata | ✅
-[10742625](https://www.openstreetmap.org/relation/10742625) | MiniBus 244: Calle Trojes → Avenida Eliodoro Villazón | 244 | Calle Trojes | Avenida Eliodoro Villazón | ✅
-[11142143](https://www.openstreetmap.org/relation/11142143) | MiniBus 244: Calle Pocona → Lava Lava Alta | 244 | Calle Pocona | Lava Lava Alta | ✅
-[11142168](https://www.openstreetmap.org/relation/11142168) | MiniBus 244: Lava Lava Alta → Calle Pocona | 244 | Lava Lava Alta | Calle Pocona | ✅
-[11142205](https://www.openstreetmap.org/relation/11142205) | MiniBus 244: Calle Pocona → Avenida Gualberto Villarroel | 244 | Calle Pocona | Avenida Gualberto Villarroel | ✅
-[11142224](https://www.openstreetmap.org/relation/11142224) | MiniBus 244: Avenida Gualberto Villarroel → Calle Pocona | 244 | Avenida Gualberto Villarroel | Calle Pocona | ✅
-[11142238](https://www.openstreetmap.org/relation/11142238) | MiniBus 244: Calle Pocona → Calle Bolívar | 244 | Calle Pocona | Calle Bolívar | ✅
-[11142249](https://www.openstreetmap.org/relation/11142249) | MiniBus 244: Calle Bolívar → Calle Pocona | 244 | Calle Bolívar | Calle Pocona | ✅
-[20572738](https://www.openstreetmap.org/relation/20572738) | MiniBus 244: Villa Paraiso → Sacaba | 244 | Villa Paraiso | Sacaba | ✅
-[20609211](https://www.openstreetmap.org/relation/20609211) | MiniBus 244: Sacaba → Villa Paraiso | 244 | Sacaba | Villa Paraiso | ✅
+[10742513](https://www.openstreetmap.org/relation/10742513) | Trufi 244: Calle Paucarpata → Avenida Eliodoro Villazón | 244 | Calle Paucarpata | Avenida Eliodoro Villazón | ✅
+[10742585](https://www.openstreetmap.org/relation/10742585) | Trufi 244: Avenida Eliodoro Villazón → Calle Paucarpata | 244 | Avenida Eliodoro Villazón | Calle Paucarpata | ✅
+[11142143](https://www.openstreetmap.org/relation/11142143) | Trufi 244: Calle Pocona → Lava Lava Alta | 244 | Calle Pocona | Lava Lava Alta | ✅
+[11142168](https://www.openstreetmap.org/relation/11142168) | Trufi 244: Lava Lava Alta → Calle Pocona | 244 | Lava Lava Alta | Calle Pocona | ✅
+[20572738](https://www.openstreetmap.org/relation/20572738) | Trufi 244: Villa Paraiso → Sacaba | 244 | Villa Paraiso | Sacaba | ✅
+[20609211](https://www.openstreetmap.org/relation/20609211) | Trufi 244: Sacaba → Villa Paraiso | 244 | Sacaba | Villa Paraiso | ✅
 [20733041](https://www.openstreetmap.org/relation/20733041) | Trufi 244: Normal Simón Rodriguez → Huayra K´asa | 244 | Normal Simón Rodriguez | Huayra K´asa | ✅
 [20733065](https://www.openstreetmap.org/relation/20733065) | Trufi 244: Huayra K´asa → Normal Simón Rodriguez | 244 | Huayra K´asa | Normal Simón Rodriguez | ✅
 [20735545](https://www.openstreetmap.org/relation/20735545) | Trufi 244: Huayra K´asa → Alto Paraiso | 244 | Huayra K´asa | Alto Paraiso | ✅
@@ -513,6 +570,8 @@
 [20735896](https://www.openstreetmap.org/relation/20735896) | Trufi 244: Huayra K´asa → Alto Obrajes | 244 | Huayra K´asa | Alto Obrajes | ✅
 [20735921](https://www.openstreetmap.org/relation/20735921) | Trufi 244: Final Beijing → Lava Lava Baja | 244 | Final Beijing | Lava Lava Baja | ✅
 [20735922](https://www.openstreetmap.org/relation/20735922) | Trufi 244: Lava Lava Baja → Final Beijing | 244 | Lava Lava Baja | Final Beijing | ✅
+[20744203](https://www.openstreetmap.org/relation/20744203) | Trufi 244: Huayra K´asa → Lava Lava Baja | 244 | Huayra K´asa | Lava Lava Baja | ✅
+[20762524](https://www.openstreetmap.org/relation/20762524) | Trufi 244: Lava Lava Baja → Huayra K´asa | 244 | Lava Lava Baja | Huayra K´asa | ✅
 [10788634](https://www.openstreetmap.org/relation/10788634) | MiniBus 245: Calle Litoral → Avenida Blanco Galindo | 245 | Calle Litoral | Avenida Blanco Galindo | ✅
 [10788739](https://www.openstreetmap.org/relation/10788739) | MiniBus 245: Avenida Blanco Galindo → Calle Litoral | 245 | Avenida Blanco Galindo | Calle Litoral | ✅
 [11121479](https://www.openstreetmap.org/relation/11121479) | MiniBus 245: Calle Litoral → Viloma | 245 | Calle Litoral | Viloma | ✅
@@ -549,7 +608,7 @@
 [11127465](https://www.openstreetmap.org/relation/11127465) | MiniBus 260: Siqui Siquia → Calle Litoral | 260 | Siqui Siquia | Calle Litoral | ✅
 [11129178](https://www.openstreetmap.org/relation/11129178) | MiniBus 260: Vinto → Parotani | 260 | Vinto | Parotani | ✅
 [11129182](https://www.openstreetmap.org/relation/11129182) | MiniBus 260: Parotani → Vinto | 260 | Parotani | Vinto | ✅
-[10742276](https://www.openstreetmap.org/relation/10742276) | MiniBus 261: Calle Camiri → Avenida Blanco Galindo | 261 | Calle Camiri | Avenida Blanco Galindo | ✅
+[10742276](https://www.openstreetmap.org/relation/10742276) | MiniBus 261: Calle Camiri → Estadio Municipal Suticollo | 261 | Calle Camiri | Estadio Municipal Suticollo | ✅
 [10742335](https://www.openstreetmap.org/relation/10742335) | MiniBus 261: Avenida Blanco Galindo → Calle Camiri | 261 | Avenida Blanco Galindo | Calle Camiri | ✅
 [10724599](https://www.openstreetmap.org/relation/10724599) | MiniBus 265: Avenida Blanco Galindo → Calle Camiri | 265 | Avenida Blanco Galindo | Calle Camiri | ✅
 [10742265](https://www.openstreetmap.org/relation/10742265) | MiniBus 265: Calle Camiri → Avenida Blanco Galindo | 265 | Calle Camiri | Avenida Blanco Galindo | ✅
@@ -565,6 +624,8 @@
 [16306422](https://www.openstreetmap.org/relation/16306422) | MiniBus 270: Avenida Blanco Galindo → Calle Jose Martinez | 270 | Avenida Blanco Galindo | Calle Jose Martinez | ✅
 [4655384](https://www.openstreetmap.org/relation/4655384) | Trufi 290: Avenida Blanco Galindo → Chilimarca | 290 | Avenida Blanco Galindo | Chilimarca | ✅
 [9379871](https://www.openstreetmap.org/relation/9379871) | Trufi 290: Chilimarca → Avenida Blanco Galindo | 290 | Chilimarca | Avenida Blanco Galindo | ✅
+[20777780](https://www.openstreetmap.org/relation/20777780) | Trufi 303: Avenida Villazon → Paraiso | 303 | Avenida Villazon | Paraiso | ✅
+[20777813](https://www.openstreetmap.org/relation/20777813) | Trufi 303: Paraiso → Avenida Villazon | 303 | Paraiso | Avenida Villazon | ✅
 [9430327](https://www.openstreetmap.org/relation/9430327) | Trufi 311: Pampita Mejillones → Calle Canichana | 311 | Pampita Mejillones | Calle Canichana | ✅
 [9430329](https://www.openstreetmap.org/relation/9430329) | Trufi 311: Calle Canichana → Pampita Mejillones | 311 | Calle Canichana | Pampita Mejillones | ✅
 [9193250](https://www.openstreetmap.org/relation/9193250) | Trufi 1001: Avenida Río Caine → OTB Ecológica | 1001 | Avenida Río Caine | OTB Ecológica | ✅

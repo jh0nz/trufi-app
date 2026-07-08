@@ -15,7 +15,6 @@ import 'package:trufi_core_routing/trufi_core_routing.dart'
         RoutingEngineManager,
         IRoutingProvider,
         Otp28RoutingProvider,
-        Otp15RoutingProvider,
         TrufiPlannerProvider,
         TrufiPlannerConfig;
 import 'package:trufi_core_saved_places/trufi_core_saved_places.dart';
@@ -31,7 +30,11 @@ import 'l10n/app_localizations.dart';
 // From input/domains.txt
 const _photonUrl = 'https://photon.trufi.app';
 const _otp281Endpoint = 'https://otp281.trufi.app';
-const _otp150Endpoint = 'https://otp150.trufi.app';
+// Base URL for the Trufi planner. Used both as the remote routing server and
+// as the base for shared route links. Must be an HTTPS domain that hosts the
+// App Links / Universal Links verification files under /.well-known/ so that
+// tapping a shared link opens the installed app directly. See docs/deep-links.md.
+const _baseUrl = 'https://planner.trufi.app';
 
 // App configuration
 const _defaultCenter = LatLng(-17.3988354, -66.1626903);
@@ -44,7 +47,6 @@ const _feedbackUrl = 'https://forms.gle/QMLhJT7N44Bh9zBN6';
 const _facebookUrl = 'https://www.facebook.com/trufiapp/';
 const _instagramUrl = 'https://www.instagram.com/trufi.app';
 const _whatsappUrl = 'https://wa.me/59167835296';
-const _shareUrl = 'https://www.trufi.app/';
 
 // Routing engines
 final List<IRoutingProvider> _routingEngines = [
@@ -62,7 +64,7 @@ final List<IRoutingProvider> _routingEngines = [
         // production (same-origin behind the YARP gateway) but
         // breaks `flutter run -d chrome` locally because it
         // resolves to `localhost:8080/api`, which doesn't exist.
-        serverUrl: 'https://planner.trufi.app/api',
+        serverUrl: '$_baseUrl/api',
       ),
     ),
   // Online routing via OTP 2.8.1
@@ -72,18 +74,12 @@ final List<IRoutingProvider> _routingEngines = [
     showWheelchairOption: false,
     showBicycleOption: false,
   ),
-  // Online routing via OTP 1.5.0
-  Otp15RoutingProvider(
-    endpoint: _otp150Endpoint,
-    displayName: 'OTP 1.5.0',
-    showWheelchairOption: false,
-  ),
 ];
 
 // Map engines
 final List<ITrufiMapEngine> _mapEngines = [
-  // Offline maps - disabled on web
-  if (!kIsWeb)
+  // Offline maps - mobile only (web uses the online maps below)
+  if (!kIsWeb) ...[
     OfflineMapLibreEngine(
       engineId: 'offline_osm_liberty',
       nameBuilder: (ctx) => AppLocalizations.of(ctx)!.mapStandardOffline,
@@ -111,7 +107,6 @@ final List<ITrufiMapEngine> _mapEngines = [
         ],
       ),
     ),
-  if (!kIsWeb)
     OfflineMapLibreEngine(
       engineId: 'offline_osm_bright',
       nameBuilder: (ctx) => AppLocalizations.of(ctx)!.mapLightOffline,
@@ -139,7 +134,6 @@ final List<ITrufiMapEngine> _mapEngines = [
         ],
       ),
     ),
-  if (!kIsWeb)
     OfflineMapLibreEngine(
       engineId: 'offline_dark_matter',
       nameBuilder: (ctx) => AppLocalizations.of(ctx)!.mapDarkOffline,
@@ -169,7 +163,6 @@ final List<ITrufiMapEngine> _mapEngines = [
         ],
       ),
     ),
-  if (!kIsWeb)
     OfflineMapLibreEngine(
       engineId: 'offline_fiord_color',
       nameBuilder: (ctx) => AppLocalizations.of(ctx)!.mapColorfulOffline,
@@ -200,33 +193,36 @@ final List<ITrufiMapEngine> _mapEngines = [
         ],
       ),
     ),
-  // Online maps - from input/domains.txt
-  MapLibreEngine(
-    engineId: 'osm_bright',
-    styleString: 'https://maps.trufi.app/styles/osm-bright/style.json',
-    nameBuilder: (ctx) => AppLocalizations.of(ctx)!.mapLightOnline,
-    descriptionBuilder: (ctx) => AppLocalizations.of(ctx)!.mapLightOnlineDesc,
-  ),
-  MapLibreEngine(
-    engineId: 'osm_liberty',
-    styleString: 'https://maps.trufi.app/styles/osm-liberty/style.json',
-    nameBuilder: (ctx) => AppLocalizations.of(ctx)!.mapStandardOnline,
-    descriptionBuilder: (ctx) =>
-        AppLocalizations.of(ctx)!.mapStandardOnlineDesc,
-  ),
-  MapLibreEngine(
-    engineId: 'dark_matter',
-    styleString: 'https://maps.trufi.app/styles/dark-matter/style.json',
-    nameBuilder: (ctx) => AppLocalizations.of(ctx)!.mapDarkOnline,
-    descriptionBuilder: (ctx) => AppLocalizations.of(ctx)!.mapDarkOnlineDesc,
-  ),
-  MapLibreEngine(
-    engineId: 'fiord_color',
-    styleString: 'https://maps.trufi.app/styles/fiord-color/style.json',
-    nameBuilder: (ctx) => AppLocalizations.of(ctx)!.mapColorfulOnline,
-    descriptionBuilder: (ctx) =>
-        AppLocalizations.of(ctx)!.mapColorfulOnlineDesc,
-  ),
+  ],
+  // Online maps - web only
+  if (kIsWeb) ...[
+    MapLibreEngine(
+      engineId: 'osm_bright',
+      styleString: 'https://maps.trufi.app/styles/osm-bright/style.json',
+      nameBuilder: (ctx) => AppLocalizations.of(ctx)!.mapLightOnline,
+      descriptionBuilder: (ctx) => AppLocalizations.of(ctx)!.mapLightOnlineDesc,
+    ),
+    MapLibreEngine(
+      engineId: 'osm_liberty',
+      styleString: 'https://maps.trufi.app/styles/osm-liberty/style.json',
+      nameBuilder: (ctx) => AppLocalizations.of(ctx)!.mapStandardOnline,
+      descriptionBuilder: (ctx) =>
+          AppLocalizations.of(ctx)!.mapStandardOnlineDesc,
+    ),
+    MapLibreEngine(
+      engineId: 'dark_matter',
+      styleString: 'https://maps.trufi.app/styles/dark-matter/style.json',
+      nameBuilder: (ctx) => AppLocalizations.of(ctx)!.mapDarkOnline,
+      descriptionBuilder: (ctx) => AppLocalizations.of(ctx)!.mapDarkOnlineDesc,
+    ),
+    MapLibreEngine(
+      engineId: 'fiord_color',
+      styleString: 'https://maps.trufi.app/styles/fiord-color/style.json',
+      nameBuilder: (ctx) => AppLocalizations.of(ctx)!.mapColorfulOnline,
+      descriptionBuilder: (ctx) =>
+          AppLocalizations.of(ctx)!.mapColorfulOnlineDesc,
+    ),
+  ],
 ];
 // ========================================
 
@@ -272,6 +268,18 @@ void main() {
           label: 'WhatsApp',
         ),
       ],
+      overlayManager: OverlayManager(
+        managers: [
+          OnboardingManager(
+            overlayBuilder: (onComplete) =>
+                OnboardingSheet(onComplete: onComplete),
+          ),
+          PrivacyConsentManager(
+            overlayBuilder: (onAccept, onDecline) =>
+                PrivacyConsentSheet(onAccept: onAccept, onDecline: onDecline),
+          ),
+        ],
+      ),
       providers: [
         ChangeNotifierProvider(
           create: (_) => MapEngineManager(
@@ -281,22 +289,6 @@ void main() {
         ),
         ChangeNotifierProvider(
           create: (_) => RoutingEngineManager(engines: _routingEngines),
-        ),
-        ChangeNotifierProvider(
-          create: (_) => OverlayManager(
-            managers: [
-              OnboardingManager(
-                overlayBuilder: (onComplete) =>
-                    OnboardingSheet(onComplete: onComplete),
-              ),
-              PrivacyConsentManager(
-                overlayBuilder: (onAccept, onDecline) => PrivacyConsentSheet(
-                  onAccept: onAccept,
-                  onDecline: onDecline,
-                ),
-              ),
-            ],
-          ),
         ),
         BlocProvider(
           create: (_) => SearchLocationsCubit(
@@ -313,6 +305,7 @@ void main() {
           config: HomeScreenConfig(
             appName: _appName,
             deepLinkScheme: _deepLinkScheme,
+            shareBaseUrl: _baseUrl,
             poiLayersManager: POILayersManager(assetsBasePath: 'assets/pois'),
           ),
           onStartNavigation: (context, itinerary, locationService) {
